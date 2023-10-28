@@ -33,8 +33,5 @@ The python code to build and train the models is included in the Jupyter noteboo
 <hr>
 
 
-
-3. Most web browsers don't support the tiff image format. This needs to be kept in mind when pre-processing training data if the intention is to build a web app.
-
-
-4. Because Tensorflowjs is a new technology, web apps bulit using it may not work in some browsers. The user will see a message saying the "Ai is loading..." but that message will never go away because the app is actually frozen. It's better to advise users to use the latest version of Chrome.
+Most web browsers don't support the tiff image format. This needs to be kept in mind when pre-processing training data if the intention is to build a web app.
+Because Tensorflowjs is a new technology, web apps bulit using it may not work in some browsers. The user will see a message saying the "Ai is loading..." but that message will never go away because the app is actually frozen. It's better to advise users to use the latest version of Chrome.
